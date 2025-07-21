@@ -4,9 +4,9 @@ This is a full-featured open-source release of ScanImage.  This release works on
 
 ## Requirements
 ### Hardware
-NI DAQ PCI-6110
+NI DAQ PCI-6110 (Dev1)
 
-NI DAQ PCIe-6321
+NI DAQ PCIe-6321 (Dev2)
 
 ### Software
 Matlab 2013b
