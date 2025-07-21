@@ -16,6 +16,7 @@ NI-DAQmx version 9.8
 
 ## Wiring
 ![Wiring schematic](https://github.com/Llamero/ScanImage_3.8.1/blob/main/Images/BreakoutBoxWiringDiagram2.png)
+### Jumper Wires
 <-> = Connection on the same Daq, <---> = Connection between Daqs
 
 Dev1 P0.0 <-> user1 <-> PFI0
